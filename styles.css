@@ -64,6 +64,12 @@ figure {
     padding: 1rem;
 }
 
+/*Nav bar padding*/
+.navbar-brand {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
 
 
 
